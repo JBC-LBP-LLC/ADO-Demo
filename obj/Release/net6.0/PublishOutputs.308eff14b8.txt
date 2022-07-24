@@ -1,0 +1,7 @@
+D:\Dev\CNH York\Repos\helm_deploy_poc\out\TodoList.exe
+D:\Dev\CNH York\Repos\helm_deploy_poc\out\appsettings.Development.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\out\appsettings.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\out\TodoList.dll
+D:\Dev\CNH York\Repos\helm_deploy_poc\out\TodoList.deps.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\out\TodoList.runtimeconfig.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\out\TodoList.pdb

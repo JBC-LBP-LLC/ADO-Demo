@@ -1,0 +1,86 @@
+D:\Dev\CNH York\Repos\TodoList\bin\Debug\net6.0\appsettings.Development.json
+D:\Dev\CNH York\Repos\TodoList\bin\Debug\net6.0\appsettings.json
+D:\Dev\CNH York\Repos\TodoList\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json
+D:\Dev\CNH York\Repos\TodoList\bin\Debug\net6.0\TodoList.exe
+D:\Dev\CNH York\Repos\TodoList\bin\Debug\net6.0\TodoList.deps.json
+D:\Dev\CNH York\Repos\TodoList\bin\Debug\net6.0\TodoList.runtimeconfig.json
+D:\Dev\CNH York\Repos\TodoList\bin\Debug\net6.0\TodoList.dll
+D:\Dev\CNH York\Repos\TodoList\bin\Debug\net6.0\TodoList.pdb
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.csproj.AssemblyReference.cache
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.AssemblyInfoInputs.cache
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.AssemblyInfo.cs
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.csproj.CoreCompileInputs.cache
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.RazorAssemblyInfo.cache
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.RazorAssemblyInfo.cs
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\scopedcss\bundle\TodoList.styles.css
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\scopedcss\projectbundle\TodoList.bundle.scp.css
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.dll
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\refint\TodoList.dll
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.pdb
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\TodoList.genruntimeconfig.cache
+D:\Dev\CNH York\Repos\TodoList\obj\Debug\net6.0\ref\TodoList.dll
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\bin\Debug\net6.0\appsettings.json
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.exe
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.deps.json
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.runtimeconfig.json
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.dll
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.pdb
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.csproj.AssemblyReference.cache
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.AssemblyInfo.cs
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.RazorAssemblyInfo.cache
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.RazorAssemblyInfo.cs
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\scopedcss\bundle\TodoList.styles.css
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\scopedcss\projectbundle\TodoList.bundle.scp.css
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.dll
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\refint\TodoList.dll
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.pdb
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.genruntimeconfig.cache
+C:\Users\f12618e\OneDrive - CNH Industrial\Documents\Repos\helm_deploy_poc\obj\Debug\net6.0\ref\TodoList.dll
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\appsettings.Development.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\appsettings.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.exe
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.deps.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.runtimeconfig.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.dll
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\TodoList.pdb
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.csproj.AssemblyReference.cache
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.AssemblyInfoInputs.cache
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.AssemblyInfo.cs
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.csproj.CoreCompileInputs.cache
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.RazorAssemblyInfo.cache
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.RazorAssemblyInfo.cs
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\scopedcss\bundle\TodoList.styles.css
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\scopedcss\projectbundle\TodoList.bundle.scp.css
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.dll
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\refint\TodoList.dll
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.pdb
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\TodoList.genruntimeconfig.cache
+D:\Dev\CNH York\Repos\helm_deploy_poc\obj\Debug\net6.0\ref\TodoList.dll
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\out\web.config
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\out\appsettings.Development.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\out\appsettings.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\out\TodoList.deps.json
+D:\Dev\CNH York\Repos\helm_deploy_poc\bin\Debug\net6.0\out\TodoList.runtimeconfig.json
